@@ -20,8 +20,8 @@ test.py  --weight_decay 1e-3 --batch_size 64 --network 3 --view 6 --tm 336385
 2:Xception
 3:Densenet
 
-##alpha：weight coefficient
+## alpha：weight coefficient
 
-##tm: a part of the file name
+## tm: a part of the file name
 
-##lr: learning rate
+## lr: learning rate
